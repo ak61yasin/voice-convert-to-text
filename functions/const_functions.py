@@ -4,13 +4,27 @@
 from functions import log_messages_functions
 
 
+# get_video_path functions: Get audio file path.
 def get_video_path(file_name):
     log_messages_functions.info_log_message("get_video_path function: Audio file path received ")
     return "../utils/source-file/"+file_name
 
 
+# get_max_len_text function: Returned 80. It's not magic number.
+# This will help us fix the maximum length of the sequence:
+def get_max_len_text():
+    return 80
+
+
+# get_max_len_summary function: Returned 10. It's not magic number.
+# This will help us fix the maximum length of the sequence:
+def get_max_len_summary():
+    return 10
+
+
+# get_contraction_map function: Here is the dictionary that we will use for expanding the contractions
 def get_contraction_map():
-    contraction_map = {"ain't": "is not", "aren't": "are not", "can't": "cannot", "'cause": "because",
+    contraction_mapping  = {"ain't": "is not", "aren't": "are not", "can't": "cannot", "'cause": "because",
                        "could've": "could have", "couldn't": "could not",
 
                        "didn't": "did not", "doesn't": "does not", "don't": "do not", "hadn't": "had not",
@@ -77,4 +91,4 @@ def get_contraction_map():
                        "you'll've": "you will have",
 
                        "you're": "you are", "you've": "you have"}
-    return contraction_map
+    return contraction_mapping

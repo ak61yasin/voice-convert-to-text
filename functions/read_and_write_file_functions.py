@@ -16,7 +16,7 @@ def write_file(file_name, text):
     log_messages_functions.info_log_message("Text: " + text)
     file_name.write(text)
 
-    
+
 # read_file: Return the text file in text.txt
 def read_file():
     with open("../utils/dataset/text.txt", encoding="utf-8") as file:
