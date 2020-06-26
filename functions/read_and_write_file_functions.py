@@ -7,7 +7,7 @@ from functions import log_messages_functions
 # open_file: Open text.txt file
 def open_file():
     log_messages_functions.info_log_message("open_file function: Open text.txt file")
-    return open("../utils/data/text.txt", "a", encoding="utf-8")
+    return open("../utils/dataset/text.txt", "a", encoding="utf-8")
 
 
 # write_file: Writes text.txt file
