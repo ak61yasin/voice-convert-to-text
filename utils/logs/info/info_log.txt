@@ -1,0 +1,5 @@
+26-06-2020 12:21 -> get_video_path function: Audio file path received  
+26-06-2020 12:21 -> read_voice_file function: Create a AudioFile  
+26-06-2020 12:21 -> speech_recognition_instance function: Create a Recognizer instance 
+26-06-2020 12:21 -> speech_recognition_instance function: Create a Recognizer instance 
+26-06-2020 12:21 -> speech_recognition_instance function: Create a Recognizer instance 

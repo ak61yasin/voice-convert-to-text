@@ -1,0 +1,3 @@
+26-06-2020 12:21 -> voice_to_text functions: Convert voice to text 
+26-06-2020 12:21 -> voice_to_text functions: Success Text: şimdi yapmamız gereken şey basit sen araştırma yaparken Ben senin için örnek olacak bir kod Yazacağım bu kodu kitaba yükleyeceğim sende o git haptan o kadar bakarak kodu pul Reckless ederek kendi bilgisayarını kontrol edecek sende konu 
+26-06-2020 12:21 -> voice2text.py file: Transformed Text Shown
