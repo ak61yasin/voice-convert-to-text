@@ -1,1 +1,2 @@
-şimdi yapmamız gereken şey basit sen araştırma yaparken Ben senin için örnek olacak bir kod Yazacağım bu kodu kitaba yükleyeceğim sende o git haptan o kadar bakarak kodu pul Reckless ederek kendi bilgisayarını kontrol edecek sende konu
+Dataset Link
+https://www.kaggle.com/snap/amazon-fine-food-reviews
