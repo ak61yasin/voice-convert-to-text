@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import warnings
 
-from attention import AttentionLayer
 from functions import nlp_functions, const_functions, plot_functions
 from keras import backend as K
 from attention import AttentionLayer
